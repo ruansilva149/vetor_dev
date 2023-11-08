@@ -23,7 +23,7 @@ int main() {
         }
     }
 
-    printf("Numeros dobrados em ordem decrescente:\n");
+    printf("Valores dobrados:\n");
     for (i = 0; i < 7; i++) {
         printf("%d \n", vetor[i]);
     }
